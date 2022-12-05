@@ -1,1 +1,1 @@
-# estartuoindia-static-website
+# estartupindia-static-website
